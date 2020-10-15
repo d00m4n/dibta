@@ -1,0 +1,2 @@
+# dibta
+curs kubernets
